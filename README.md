@@ -10,11 +10,11 @@ Download Instal Advertiser SDK from here:
 
 Our sdk is distribuited with [CocoaPods](http://coccoapods.org)
 
-    pod 'InstalPublisherSDK', :git => 'https://bitbucket.org/tbdsrl/instal-advertiser-sdk-ios-distr.git'
+    pod 'InstalAdvertiserSDK', :git => 'https://bitbucket.org/tbdsrl/instal-advertiser-sdk-ios-distr.git'
 
 
 ### Manual integration
-Download zip package and include it in your project.
+Download [zip package](https://bitbucket.org/tbdsrl/instal-advertiser-sdk-ios-distr/downloads/AdvertiserSDK_0.0.1.zip) and include it in your project.
 
 You will need to include Apple's  **AdSupport.framework** in you project.
 
